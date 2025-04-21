@@ -10,7 +10,7 @@
       <pubDate>Tue, 23 Apr 2025 12:00:00 +0800</pubDate>
       <enclosure
         url="https://github.com/nina16448/todo-update/releases/download/v1.0.0/totodo_setup-v1.0.0.exe"
-        sparkle:dsaSignature="MDwCHE/ruXdffDmEKKhAIt6IWObOWnREXriPdCAoHDcCHDbkPIDzJ3S0aJIw15h3kTwq5Ghlp/8+2b8J0PI="
+        sparkle:dsaSignature="MD0CHCf9B2avAWYQK2IChncSFmdac49weILBcQBX5xcCHQC28m2ulbOvNCy65NGwpLXPjcpb3re9Cxdd+kUd"
         sparkle:version="1.0.0"
         sparkle:os="windows"
         length="20250000"
