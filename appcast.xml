@@ -9,11 +9,11 @@
       <sparkle:version>1.0.0</sparkle:version>
       <pubDate>Tue, 23 Apr 2025 12:00:00 +0800</pubDate>
       <enclosure
-        url="https://github.com/nina16448/todo-update/releases/download/v1.0.0/totodo.exe"
-        sparkle:dsaSignature="MD4CHQCwPO6tjqCFu8+c9v7uCCTGV6D//OM3NW+vM7x5Ah0AmYnndmkiHateJ4w4PheXH2k4UZXYyPIEU3nN5w=="
+        url="https://github.com/nina16448/todo-update/releases/download/v1.0.0/totodo-v1.0.0.zip"
+        sparkle:dsaSignature="MD4CHQCLl7dB5FbF4jzOFUubyLPg7ekJJo1SkzQ7DOHHAh0AoyHQ2tfGL061F4qyy2HVpOrbRyFk+rkY/UQAJw=="
         sparkle:version="1.0.0"
         sparkle:os="windows"
-        length="0"
+        length="28100000"
         type="application/octet-stream" />
     </item>
   </channel>
