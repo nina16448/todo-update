@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ToToDo 更新</title>
+    <description>這裡是 ToDo 桌面應用的更新紀錄</description>
+    <language>zh-TW</language>
+    <item>
+      <title>版本 1.0.0</title>
+      <sparkle:version>1.0.0</sparkle:version>
+      <pubDate>Tue, 23 Apr 2025 12:00:00 +0800</pubDate>
+      <enclosure
+        url="https://github.com/nina16448/todo-update/releases/download/v1.0.0/totodo.exe"
+        sparkle:dsaSignature="MD4CHQCwPO6tjqCFu8+c9v7uCCTGV6D//OM3NW+vM7x5Ah0AmYnndmkiHateJ4w4PheXH2k4UZXYyPIEU3nN5w=="
+        sparkle:version="1.0.0"
+        sparkle:os="windows"
+        length="0"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
