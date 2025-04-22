@@ -5,13 +5,13 @@
     <description>這裡是 ToDo 桌面應用的更新紀錄</description>
     <language>zh-TW</language>
     <item>
-      <title>版本 1.0.2</title>
-      <sparkle:version>1.0.2</sparkle:version>
+      <title>版本 1.2.0</title>
+      <sparkle:version>1.2.0</sparkle:version>
       <pubDate>Tue, 23 Apr 2025 12:00:00 +0800</pubDate>
       <enclosure
         url="https://github.com/nina16448/todo-update/releases/download/v1.0.2/totodo_setup-v1.0.2.exe"
-        sparkle:dsaSignature="MDwCHAqLyZO4GgNg77pTQEzHTbnxS80ry5b/yC2uaRsCHGmacylbdpJO8mOwxsRyIT6JZYCMA93Dg2MO6U8="
-        sparkle:version="1.0.2"
+        sparkle:dsaSignature="MDwCHH2m4VtjrUrl4S+zGWZmYVaMSNvJWWDx9xmtk9oCHHRp0VK7Y5w1mHr3daigdRiE6bqQ8o+xmdtxYMU="
+        sparkle:version="1.2.0"
         sparkle:os="windows"
         length="20250000"
         type="application/octet-stream" />
