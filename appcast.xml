@@ -9,7 +9,7 @@
       <sparkle:version>1.2.1</sparkle:version>
       <pubDate>Tue, 23 Apr 2025 12:00:00 +0800</pubDate>
       <enclosure
-        url="https://github.com/nina16448/todo-update/releases/download/v1.2.1/totodo_setup-v1.2.1.exe"
+        url="https://github.com/nina16448/todo-update/releases/download/1.2.1/totodo_setup-v1.2.1.exe"
         sparkle:dsaSignature="MDwCHB9drW8vcOZNjJkBuWyh39j1LVQl7G6RQcZbiTYCHBdl+p0mtbNhInjXuN6awS47mEVsm2jdWj55kY4="
         sparkle:version="1.2.1"
         sparkle:os="windows"
